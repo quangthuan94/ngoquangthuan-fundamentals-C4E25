@@ -1,0 +1,4 @@
+1. What is Boolean? Write down 3 different expression that results a Boolean type
+=> A Boolean value is either true or false. In Python, the two Boolean values are True and False (the capitalization must be exactly as
+shown), and the Python type is bool.
+=> 3 diffirent ex
